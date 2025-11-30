@@ -9,4 +9,4 @@ read -p "Enter num2 " num2
 echo "Sum of values is $sum"
 echo "Difference of values is $diff"
 echo "Product of values is $product"
-echo "Divident of values is $dividend"
+echo "Dividend of values is $dividend"
